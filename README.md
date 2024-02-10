@@ -1,1 +1,1 @@
-Readme
+Here I have uploaded my internship work for CODSOFT. I have made several tkinter applications like a password generator ,a Todo-list app and a Calculator . I hope this will help you to understand the basics of python tkinter.
