@@ -44,5 +44,5 @@ while a == "y"or a =="Y":
    if a == "y"or"Y":
       continue
    elif a =="n" or "N":
-      print("Thanks for Playing")
       break
+print("Thanks for Playing")       
